@@ -10,11 +10,11 @@ Este proyecto permite generar documentos de Word con cartas de agradecimiento pe
 
 ## Requisitos
 - Python 3.7 o superior
-- Biblioteca Pygame y python-docx
+- Biblioteca python-docx
 
 ## Instalación
 1. Clona este repositorio o descarga los archivos.
-2. Instala Pygame si aún no lo tienes:
+2. Instala las librerias si aun no las tienes:
    ```bash
    pip install pygame
    pip install python-docx
