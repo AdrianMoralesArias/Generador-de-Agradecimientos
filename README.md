@@ -16,7 +16,6 @@ Este proyecto permite generar documentos de Word con cartas de agradecimiento pe
 1. Clona este repositorio o descarga los archivos.
 2. Instala las librerias si aun no las tienes:
    ```bash
-   pip install pygame
    pip install python-docx
    ```
 
